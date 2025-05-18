@@ -1,1 +1,1 @@
-# [00_intro_python](https://colab.research.google.com/drive/1hIz6bgci1U1vRiuqF9BNclSLsD3cSmPS?authuser=1#scrollTo=yH2opTm7SQLX](https://colab.research.google.com/drive/1X7-67f2f-tx8Y6lPd4ax1iMICndK__S2?authuser=1#scrollTo=vbTinCakp6c-)
+# [00_intro_python](https://colab.research.google.com/drive/1EkuokHAhvfgOjhQji8wg8GVTAhsRX_nP?authuser=1#scrollTo=fo6WChXvsRXe)
